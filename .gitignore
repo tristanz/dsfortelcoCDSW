@@ -3,3 +3,5 @@ node_modules
 *.pyc
 .*
 !.gitignore
+spark-warehouse
+
